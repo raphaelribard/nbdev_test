@@ -7,4 +7,4 @@ __all__ = ['foo']
 def foo(): pass
 
 # %% ../nbs/00_core.ipynb 7
-import numpy as np
+#import numpy as np -> I need to fix this
