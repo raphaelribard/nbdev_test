@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-test"
+  site-url: "https://raphaelribard.github.io/nbdev_test"
+  description: "Trying the nbdev library"
+  repo-branch: main
+  repo-url: "https://github.com/raphaelribard/nbdev_test"
